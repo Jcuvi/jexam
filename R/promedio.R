@@ -1,3 +1,7 @@
+###############################################################################
+################ Hecho por: Joel Cuvi #########################################
+################ examen del 2 parcial #########################################
+###############################################################################
 # Función para calcular el promedio de un vector de números
 calcular_promedio <- function(numeros) {
   total <- sum(numeros)  # Suma todos los números
